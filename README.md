@@ -13,7 +13,7 @@ Medium Frequency – those with 3 to 9 transactions per month
 Low Frequency – customers who transact 2 or fewer times monthly
 Finally, I counted how many customers fall into each group and also showed the average number of transactions for each group.
 
- – Account Inactivity Alert
+ – Account Inactivity Alert:
 Approach:
 I looked at the last time each customer had a transaction.
 For investment plans, I used the created_on date from the plans_plan table to check when the plan was last set up or updated.
